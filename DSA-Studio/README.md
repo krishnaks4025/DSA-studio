@@ -76,8 +76,6 @@ DSA Studio aims to make learning data structures and algorithms more intuitive b
 - Improved visualization and interaction
 - Performance and usability enhancements
 
-- GitHub: [@shriyanshu-prakash](https://github.com/shriyanshu-prakash)
-
 ---
 
 *Built to make learning DSA more interactive.*
