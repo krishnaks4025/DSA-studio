@@ -28,26 +28,6 @@ An interactive **Data Structures and Algorithms visualizer** built with Python a
 - Python 3.10 or later recommended
 - Tkinter (usually included with standard Python installations)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/shriyanshu-prakash/DSA-Studio.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd DSA-Studio
-   ```
-
-3. Run the application:
-
-   ```bash
-   python main.py
-   ```
-
 ## 📁 Project Structure
 
 ```text
